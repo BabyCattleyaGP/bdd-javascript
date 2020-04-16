@@ -1,5 +1,5 @@
 describe("pow", function(){
-  it("raises to n-th power", function(){
+  it("2 raised to power 3 is 8", function(){
     assert.equal(pow(2,3), 8);
   });
 
